@@ -3,4 +3,4 @@ assets
 data
 .idea/
 .ipynb_checkpoints/
-.non_github_files/
+non_github_files/
